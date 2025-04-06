@@ -3,6 +3,10 @@ body{
     justify-items:center;
 }
 
+body{
+    font-family:sans-serif;
+}
+
 .title{
     height: 60px;
 }
